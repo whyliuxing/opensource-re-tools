@@ -45,7 +45,14 @@ Unpacking
 * [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
 * [iwseclabs/gunpack - no introduction available](https://bitbucket.org/iwseclabs/gunpack)
 
+## Mac tools
+
+* [wzqcongcong/macSubstrate - Substrate for macOS](https://github.com/wzqcongcong/macSubstrate)
+
 ## Standalone tools
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
 
+## Wiki
+
+* [michalmalik/osx-re-101 - A collection of resources for OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
