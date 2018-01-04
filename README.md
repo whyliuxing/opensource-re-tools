@@ -39,11 +39,21 @@ Auxiliary
 * [IDA StringCluster - extending IDA's string navigation capabilities](https://github.com/Comsecuris/ida_strcluster)
 * [ida_ea - A set of exploitation/reversing aids for IDA: Context Viewer, Instuction Emulator, Heap Explorer, Trace Dumper, CMD and Restyle](https://github.com/1111joe1111/ida_ea)
 * [ida-arm-system-highlight - Decoding ARM system instructions](https://github.com/gdelugre/ida-arm-system-highlight)
+* [alexhude/FRIEND - Flexible Register/Instruction Extender aNd Documentation](https://github.com/alexhude/FRIEND)
+* [REhints/HexRaysCodeXplorer - Hex-Rays Decompiler plugin for better code navigation](https://github.com/REhints/HexRaysCodeXplorer)
 
 Unpacking
 
 * [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
 * [iwseclabs/gunpack - no introduction available](https://bitbucket.org/iwseclabs/gunpack)
+
+## Windbg plugins
+
+* [szimeus/evalyzer - Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection](https://github.com/szimeus/evalyzer)
+
+## GDB plugins
+
+* [libptmalloc gdb plugin](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-blog-series-part-five-libptmalloc-gdb-plugin/)
 
 ## Mac tools
 
