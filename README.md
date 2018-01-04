@@ -45,7 +45,7 @@ Auxiliary
 Unpacking
 
 * [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
-* [iwseclabs/gunpack - no introduction available](https://bitbucket.org/iwseclabs/gunpack)
+* [iwseclabs/gunpack](https://bitbucket.org/iwseclabs/gunpack)
 
 ## Windbg plugins
 
@@ -55,14 +55,26 @@ Unpacking
 
 * [libptmalloc gdb plugin](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-blog-series-part-five-libptmalloc-gdb-plugin/)
 
-## Mac tools
+## Standalone tools
+
+QT
+
+* [KDAB/GammaRay - a tool to poke around in a Qt-application and also to manipulate the application to some extent](https://github.com/KDAB/GammaRay)
+
+Mac
 
 * [wzqcongcong/macSubstrate - Substrate for macOS](https://github.com/wzqcongcong/macSubstrate)
 
-## Standalone tools
+iOS
+
+* [kernelcache - Identify and rename function stubs (plt entries) in an iOS kernelcache. ARM64 only.](https://github.com/saelo/ida_scripts/blob/master/kernelcache.py)
+
+Emulators
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
 
 ## Wiki
 
 * [michalmalik/osx-re-101 - A collection of resources for OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
+* [recodeking/MalwareAnalysis - A curated list of awesome malware analysis tools and resources](https://github.com/recodeking/MalwareAnalysis)
+* [wtsxDev/Malware-Analysis - List of awesome malware analysis tools and resources](https://github.com/wtsxDev/Malware-Analysis)
