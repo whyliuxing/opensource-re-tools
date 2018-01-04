@@ -33,9 +33,19 @@ UEFI
 * [kyurchenko/IDAPython-scripts-for-UEFI-analisys: Analysis of the disassembled UEFI image](https://github.com/kyurchenko/IDAPython-scripts-for-UEFI-analisys)
 * [gdbinit/EFISwissKnife - An IDA plugin to improve (U)EFI reversing](https://reverse.put.as/2017/06/13/efi-swiss-knife-an-ida-plugin-to-improve-uefi-reversing/)
 
-## Standalone tools
+Auxiliary
 
-* [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
+* [ampotos/dynStruct - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone](https://github.com/ampotos/dynStruct)
 * [IDA StringCluster - extending IDA's string navigation capabilities](https://github.com/Comsecuris/ida_strcluster)
 * [ida_ea - A set of exploitation/reversing aids for IDA: Context Viewer, Instuction Emulator, Heap Explorer, Trace Dumper, CMD and Restyle](https://github.com/1111joe1111/ida_ea)
 * [ida-arm-system-highlight - Decoding ARM system instructions](https://github.com/gdelugre/ida-arm-system-highlight)
+
+Unpacking
+
+* [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
+* [iwseclabs/gunpack - no introduction available](https://bitbucket.org/iwseclabs/gunpack)
+
+## Standalone tools
+
+* [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
+
