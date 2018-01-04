@@ -2,7 +2,10 @@
 
 A collection of open source reverse engineering tools
 
+
 ## IDA Plugins
+
+* [onethawt/idaplugins-list: a list of IDA plugins](https://github.com/onethawt/idaplugins-list/blob/master/README.md)
 
 IOCTL / Windows driver
 
@@ -33,7 +36,6 @@ Auxiliary
 * [ida-arm-system-highlight - Decoding ARM system instructions](https://github.com/gdelugre/ida-arm-system-highlight)
 * [alexhude/FRIEND - Flexible Register/Instruction Extender aNd Documentation](https://github.com/alexhude/FRIEND)
 * [REhints/HexRaysCodeXplorer - Hex-Rays Decompiler plugin for better code navigation](https://github.com/REhints/HexRaysCodeXplorer)
-* [onethawt/idaplugins-list: a list of IDA plugins](https://github.com/onethawt/idaplugins-list/blob/master/README.md)
 * [comsecuris/gdbida: a visual bridge between a GDB session and IDA Pro's disassembler](https://github.com/comsecuris/gdbida)
 * [darx0r/Reef - IDAPython plugin for finding Xrefs from a function](https://github.com/darx0r/Reef)
 * [ALSchwalm/dwarfexport - Export dwarf debug information from IDA Pro](https://github.com/ALSchwalm/dwarfexport)
