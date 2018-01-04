@@ -9,8 +9,24 @@ A collection of open source reverse engineering tools
 * [darx0r/Reef - IDAPython plugin for finding Xrefs from a function](https://github.com/darx0r/Reef)
 * [ALSchwalm/dwarfexport - Export dwarf debug information from IDA Pro](https://github.com/ALSchwalm/dwarfexport)
 * [maddiestone/IDAPythonEmbeddedToolkit - IDAPython scripts for automating analysis of firmware of embedded devices](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
-* [keypatch0 - A replacement of the internal IDA assembler](http://www.keystone-engine.org/keypatch0)
 * [nccgroup/PythonClassInformer - an IDAPython plugin for viewing run-time type information](https://github.com/nccgroup/PythonClassInformer)
+* [tkmru/nao- Simple No-meaning Assembly Omitter for IDA pro (CURRENTLY UNDER DEVELOPMENT)](https://github.com/tkmru/nao)
+
+IOCTL / Windows driver
+
+* [mwrlabs/win_driver_plugin - A tool to help when dealing with Windows IOCTL codes or reversing Windows drivers.](https://github.com/mwrlabs/win_driver_plugin)
+* [nccgroup/DriverBuddy - DriverBuddy is an IDA Python script to assist with the reverse engineering of Windows kernel drivers.](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/november/driverbuddy-tool-release/)
+
+Diff / Patch
+
+* [keypatch0 - A replacement of the internal IDA assembler](http://www.keystone-engine.org/keypatch0)
+* [McGill-DMaS/Kam1n0-Plugin-IDA-Pro - The Kam1n0 Assembly Clone Search Engine](https://www.whitehatters.academy/diffing-with-kam1n0/)
+* [ohjeongwook/DarunGrim - A Binary Diffing and Patch Analysis Tool (v3) http://darungrim.org](https://github.com/ohjeongwook/DarunGrim)
+
+FLIRT / Signatures
+
+* [Maktm/FLIRTDB - A community driven collection of IDA FLIRT signature files](https://github.com/Maktm/FLIRTDB)
+* [polymorf/findcrypt-yara - IDA pro plugin to find crypto constants (and more)](https://github.com/polymorf/findcrypt-yara)
 
 UEFI 
 
