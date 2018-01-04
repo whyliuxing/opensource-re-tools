@@ -4,14 +4,6 @@ A collection of open source reverse engineering tools
 
 ## IDA Plugins
 
-* [onethawt/idaplugins-list: a list of IDA plugins](https://github.com/onethawt/idaplugins-list/blob/master/README.md)
-* [comsecuris/gdbida: a visual bridge between a GDB session and IDA Pro's disassembler](https://github.com/comsecuris/gdbida)
-* [darx0r/Reef - IDAPython plugin for finding Xrefs from a function](https://github.com/darx0r/Reef)
-* [ALSchwalm/dwarfexport - Export dwarf debug information from IDA Pro](https://github.com/ALSchwalm/dwarfexport)
-* [maddiestone/IDAPythonEmbeddedToolkit - IDAPython scripts for automating analysis of firmware of embedded devices](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
-* [nccgroup/PythonClassInformer - an IDAPython plugin for viewing run-time type information](https://github.com/nccgroup/PythonClassInformer)
-* [tkmru/nao- Simple No-meaning Assembly Omitter for IDA pro (CURRENTLY UNDER DEVELOPMENT)](https://github.com/tkmru/nao)
-
 IOCTL / Windows driver
 
 * [mwrlabs/win_driver_plugin - A tool to help when dealing with Windows IOCTL codes or reversing Windows drivers.](https://github.com/mwrlabs/win_driver_plugin)
@@ -41,6 +33,13 @@ Auxiliary
 * [ida-arm-system-highlight - Decoding ARM system instructions](https://github.com/gdelugre/ida-arm-system-highlight)
 * [alexhude/FRIEND - Flexible Register/Instruction Extender aNd Documentation](https://github.com/alexhude/FRIEND)
 * [REhints/HexRaysCodeXplorer - Hex-Rays Decompiler plugin for better code navigation](https://github.com/REhints/HexRaysCodeXplorer)
+* [onethawt/idaplugins-list: a list of IDA plugins](https://github.com/onethawt/idaplugins-list/blob/master/README.md)
+* [comsecuris/gdbida: a visual bridge between a GDB session and IDA Pro's disassembler](https://github.com/comsecuris/gdbida)
+* [darx0r/Reef - IDAPython plugin for finding Xrefs from a function](https://github.com/darx0r/Reef)
+* [ALSchwalm/dwarfexport - Export dwarf debug information from IDA Pro](https://github.com/ALSchwalm/dwarfexport)
+* [maddiestone/IDAPythonEmbeddedToolkit - IDAPython scripts for automating analysis of firmware of embedded devices](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
+* [nccgroup/PythonClassInformer - an IDAPython plugin for viewing run-time type information](https://github.com/nccgroup/PythonClassInformer)
+* [tkmru/nao- Simple No-meaning Assembly Omitter for IDA pro (CURRENTLY UNDER DEVELOPMENT)](https://github.com/tkmru/nao)
 
 Unpacking
 
