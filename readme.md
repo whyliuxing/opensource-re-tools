@@ -74,8 +74,13 @@ Emulators
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
 
+## Scripts
+
+* [vallejocc/Reverse-Engineering-Arsenal - Useful Scripts for helping in reverse engeenering](https://github.com/vallejocc/Reverse-Engineering-Arsenal)
+
 ## Wiki
 
 * [michalmalik/osx-re-101 - A collection of resources for OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
 * [recodeking/MalwareAnalysis - A curated list of awesome malware analysis tools and resources](https://github.com/recodeking/MalwareAnalysis)
 * [wtsxDev/Malware-Analysis - List of awesome malware analysis tools and resources](https://github.com/wtsxDev/Malware-Analysis)
+
