@@ -58,6 +58,10 @@ Unpacking
 
 ## Standalone tools
 
+DotNet
+
+* [enkomio/shed - .NET runtine inspector](https://github.com/enkomio/shed)
+
 QT
 
 * [KDAB/GammaRay - a tool to poke around in a Qt-application and also to manipulate the application to some extent](https://github.com/KDAB/GammaRay)
