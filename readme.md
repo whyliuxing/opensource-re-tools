@@ -78,6 +78,11 @@ Emulators
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
 
+Auxiliary
+
+* [fireeye/remote_lookup - scan a 32bit process and build an
+export name/address map which can be queried](https://github.com/fireeye/remote_lookup)
+
 ## Scripts
 
 * [vallejocc/Reverse-Engineering-Arsenal - Useful Scripts for helping in reverse engeenering](https://github.com/vallejocc/Reverse-Engineering-Arsenal)
