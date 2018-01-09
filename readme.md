@@ -51,6 +51,8 @@ Unpacking
 ## Windbg plugins
 
 * [szimeus/evalyzer - Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection](https://github.com/szimeus/evalyzer)
+* [comaeio/SwishDbgExt - Incident Response & Digital Forensics Debugging Extension](https://github.com/comaeio/SwishDbgExt)
+* [zodiacon/GflagsX - Enhanced version of the GFlags tool](https://github.com/zodiacon/GflagsX)
 
 ## GDB plugins
 
