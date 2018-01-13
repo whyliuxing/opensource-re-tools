@@ -85,6 +85,7 @@ Auxiliary
 * [fireeye/remote_lookup - scan a 32bit process and build an
 export name/address map which can be queried](https://github.com/fireeye/remote_lookup)
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
+* [patois/IDACyber - visualizing the currently loaded IDB's data](https://github.com/patois/IDACyber)
 
 ## Scripts
 
@@ -96,3 +97,4 @@ export name/address map which can be queried](https://github.com/fireeye/remote_
 * [recodeking/MalwareAnalysis - A curated list of awesome malware analysis tools and resources](https://github.com/recodeking/MalwareAnalysis)
 * [wtsxDev/Malware-Analysis - List of awesome malware analysis tools and resources](https://github.com/wtsxDev/Malware-Analysis)
 
+* [yellowbyte/reverse-engineering-reference-manual - a collage of reverse engineering topics that I find interesting](https://github.com/yellowbyte/reverse-engineering-reference-manual)
