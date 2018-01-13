@@ -80,12 +80,17 @@ Emulators
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
 
+Graph / Visualization
+
+* [fireeye/SimplifyGraph - IDA Pro plugin to assist with complex graphs
+](https://github.com/fireeye/SimplifyGraph)
+* [patois/IDACyber - visualizing the currently loaded IDB's data](https://github.com/patois/IDACyber)
+
 Auxiliary
 
 * [fireeye/remote_lookup - scan a 32bit process and build an
 export name/address map which can be queried](https://github.com/fireeye/remote_lookup)
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
-* [patois/IDACyber - visualizing the currently loaded IDB's data](https://github.com/patois/IDACyber)
 
 ## Scripts
 
