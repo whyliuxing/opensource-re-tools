@@ -48,6 +48,10 @@ Unpacking
 * [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
 * [iwseclabs/gunpack](https://bitbucket.org/iwseclabs/gunpack)
 
+## LLDB plugins
+
+* [gdbinit/lldbinit - A gdbinit clone for LLDB](https://github.com/gdbinit/lldbinit/)
+
 ## Windbg plugins
 
 * [szimeus/evalyzer - Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection](https://github.com/szimeus/evalyzer)
