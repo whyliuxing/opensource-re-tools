@@ -61,6 +61,10 @@ Unpacking
 ## GDB plugins
 
 * [libptmalloc gdb plugin](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-blog-series-part-five-libptmalloc-gdb-plugin/)
+* [voltron - A hacky debugger UI for hackers](https://github.com/snare/voltron)
+* [pwndbg - Exploit Development and Reverse Engineering with GDB Made Easy](https://github.com/pwndbg/pwndbg)
+* [peda - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
+* [hugsy/gef - https://github.com/hugsy/gef](https://github.com/hugsy/gef)
 
 ## Standalone tools
 
