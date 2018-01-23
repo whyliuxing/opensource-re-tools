@@ -68,6 +68,11 @@ Unpacking
 
 ## Standalone tools
 
+Uncategorized
+
+* [m4b/bingrep - like ~~grep~~ UBER, but for binaries](https://github.com/m4b/bingrep)
+* [fireeye/flare-vm - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing](https://github.com/fireeye/flare-vm)
+
 DotNet
 
 * [enkomio/shed - .NET runtine inspector](https://github.com/enkomio/shed)
