@@ -99,6 +99,10 @@ Graph / Visualization
 ](https://github.com/fireeye/SimplifyGraph)
 * [patois/IDACyber - visualizing the currently loaded IDB's data](https://github.com/patois/IDACyber)
 
+LLVM
+
+* [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
+
 Auxiliary
 
 * [fireeye/remote_lookup - scan a 32bit process and build an
