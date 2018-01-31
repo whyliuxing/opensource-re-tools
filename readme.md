@@ -107,6 +107,10 @@ Graph / Visualization
 ](https://github.com/fireeye/SimplifyGraph)
 * [patois/IDACyber - visualizing the currently loaded IDB's data](https://github.com/patois/IDACyber)
 
+PE Tools
+
+* [hasherezade/libpeconv - A library to load and manipulate PE files](https://github.com/hasherezade/libpeconv/)
+
 LLVM
 
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
