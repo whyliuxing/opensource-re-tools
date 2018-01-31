@@ -73,6 +73,10 @@ Uncategorized
 * [m4b/bingrep - like ~~grep~~ UBER, but for binaries](https://github.com/m4b/bingrep)
 * [fireeye/flare-vm - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing](https://github.com/fireeye/flare-vm)
 
+U3D
+
+* [HearthSim/UnityHook - Platform to hook into Unity3D assemblies](https://github.com/HearthSim/UnityHook)
+
 Cisco
 
 * [artkond/ios_mips_gdb - Cisco MIPS debugger](https://github.com/artkond/ios_mips_gdb)
