@@ -115,6 +115,10 @@ LLVM
 
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
 
+Diff/Patch
+
+* [juhakivekas/multidiff - Binary data diffing for multiple objects or streams of data](https://github.com/juhakivekas/multidiff)
+
 Auxiliary
 
 * [fireeye/remote_lookup - scan a 32bit process and build an
