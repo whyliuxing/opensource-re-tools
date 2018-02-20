@@ -30,6 +30,7 @@ UEFI
 
 Auxiliary
 
+* [avast-tl/retdec - a retargetable machine-code decompiler based on LLVM](https://github.com/avast-tl/retdec)
 * [ampotos/dynStruct - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone](https://github.com/ampotos/dynStruct)
 * [IDA StringCluster - extending IDA's string navigation capabilities](https://github.com/Comsecuris/ida_strcluster)
 * [ida_ea - A set of exploitation/reversing aids for IDA: Context Viewer, Instuction Emulator, Heap Explorer, Trace Dumper, CMD and Restyle](https://github.com/1111joe1111/ida_ea)
